@@ -1,0 +1,14 @@
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\bin\Debug\CheckInternetConnectionVB.exe.config
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\bin\Debug\CheckInternetConnectionVB.exe
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\bin\Debug\CheckInternetConnectionVB.pdb
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\bin\Debug\CheckInternetConnectionVB.xml
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.vbproj.AssemblyReference.cache
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.Form1.resources
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.Resources.resources
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.vbproj.GenerateResource.cache
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.vbproj.CoreCompileInputs.cache
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.exe
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.xml
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.pdb
+C:\Users\cletu\Documents\Projects\CheckInternetConnectionVB\CheckInternetConnectionVB\obj\Debug\CheckInternetConnectionVB.Form2.resources
