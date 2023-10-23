@@ -1,0 +1,1 @@
+In Visual Basic, you can check the internet connection status using the System.Net.NetworkInformation namespace. Here's an example of how you can check the internet connection status in a Visual Basic application.
